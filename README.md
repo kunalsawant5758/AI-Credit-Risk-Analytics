@@ -124,7 +124,7 @@ Key activities:
 
 ### Excel Analysis Preview
 
-![Excel Analysis](images/excel_pivots.png)
+![Excel Analysis](excel_pivots.png)
 
 ---
 
@@ -144,7 +144,7 @@ Key dashboard components:
 
 ### Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
@@ -177,15 +177,15 @@ Python was used for:
 
 #### Delinquency Distribution
 
-![Delinquency Distribution](images/delinquency_distribution.png)
+![Delinquency Distribution](delinquency_distribution.png)
 
 #### Correlation Heatmap
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 #### Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ---
 
