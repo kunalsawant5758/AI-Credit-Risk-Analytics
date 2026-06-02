@@ -144,7 +144,7 @@ Key dashboard components:
 
 ### Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
