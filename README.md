@@ -92,27 +92,17 @@ Target Variable:
 ```text
 AI-Credit-Risk-Analytics
 │
-├── data/
-│   └── Delinquency_prediction_dataset.csv
-│
-├── excel/
-│   └── Credit_Risk_Analysis.xlsx
-│
-├── powerbi/
-│   └── AI_Credit_Risk_Analytics.pbix
-│
-├── notebooks/
-│   └── credit_risk_analysis.ipynb
-│
-├── images/
-│   ├── dashboard.png
-│   ├── excel_pivots.png
-│   ├── delinquency_distribution.png
-│   ├── correlation_heatmap.png
-│   └── feature_importance.png
-│
+├── README.md
 ├── requirements.txt
-└── README.md
+├── Delinquency_prediction_dataset.csv
+├── Credit_Risk_Analysis.xlsx
+├── AI_Credit_Risk_Analytics.pbix
+├── credit_risk_analysis.ipynb
+├── dashboard.png
+├── excel_pivots.png
+├── correlation_heatmap.png
+├── delinquency_distribution.png
+└── feature_importance.png
 ```
 
 ---
